@@ -27,7 +27,6 @@ Note the program must be run as root in order to create a utun device.
 * `-b 9600` baud rate - 4800/9600/19200/38400/115200
 * `-l 192.168.190.1` IP address your Mac should use
 * `-r 192.168.190.2` IP address of remote device
-* `-l 192.168.190.1` IP address your Mac should use
 * `/dev/cu.usbserial-XXX` Serial device to use, or (relative/absolute) path to socket if using Unix Domain Sockets
 
 Device Types:
